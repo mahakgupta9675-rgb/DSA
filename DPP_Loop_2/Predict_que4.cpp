@@ -5,4 +5,4 @@
 // for(int j=i;j<=2;j++)
 // 	cout<<i<<@;}
 // }
-// //output -> error because of @ 
+// output -> error because of @ 

@@ -1,0 +1,14 @@
+Q.  How many characters can be stored in this array?
+
+It can store 9 characters.
+
+Reason:
+
+One position is reserved for the null character ('\0'), 
+which marks the end of the string.
+
+So:
+
+Total size = 10
+
+Usable characters = 10 − 1 = 9

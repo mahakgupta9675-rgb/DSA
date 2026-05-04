@@ -1,0 +1,5 @@
+Q.  Why do we need a null character ('\0') in a character array?
+
+The null character '\0' marks the end of a string in a character array. 
+Without it, the program has no idea where the string stops.
+

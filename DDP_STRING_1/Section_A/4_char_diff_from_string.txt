@@ -1,0 +1,31 @@
+Q.   How is a character array different from a string (string class)?
+
+* Character array (char[])
+
+   .   Built-in data type
+
+   .   Ends with null character '\0'
+
+   .   Fixed size
+
+   .   Manual string handling
+
+   .   Less safe (buffer overflow possible) 
+
+* String (std::string)
+
+   .   Class in C++
+
+   .   No need for '\0'
+
+   .   Dynamic size
+
+   .   Built-in functions available
+
+   .   Safer and easier to use
+
+
+
+
+
+

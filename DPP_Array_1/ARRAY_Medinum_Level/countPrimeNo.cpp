@@ -9,7 +9,7 @@ int main(){
 
     for(int i = 0; i<7;i++){
         if(arr[i]%2 !=0){
-            cout<<arr[i]<<" ";
+            cout<<arr[i]<<" "<<endl;
             count++;
         }
     }

@@ -11,5 +11,5 @@ int main() {
         sum = sum*arr[i];
     }
     
-    cout<<sum;
+    cout<<sum<<endl;
 }

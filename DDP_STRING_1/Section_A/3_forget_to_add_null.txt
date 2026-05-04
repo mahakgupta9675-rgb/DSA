@@ -1,0 +1,14 @@
+Q.  What happens if we forget to add a null character 
+    at the end of a character array?
+
+Basically the program does not know where the string ends.
+
+  .  It reads memory beyond the array
+
+  .  Prints garbage values
+
+  .  May crash or behave unpredictably
+
+  .  String functions like printf("%s") and strlen() give wrong results
+
+  

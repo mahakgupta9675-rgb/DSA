@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+
+    char arr[] = "DSA";
+    for(int i = 0; arr[i] != '\0'; i++){
+        cout << i;
+    }
+
+}
+
+//012

@@ -307,7 +307,7 @@ int main(){
     int year;
     cout<<"Enter a 4-digit year: ";
     cin>>year;
-    cout<<year%1000<<endl;
+    cout<<year%100<<endl;
 }
 //question 15-----------------------------------------------------------
 #include <iostream>
